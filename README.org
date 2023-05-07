@@ -1,0 +1,12 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:nil arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:nil todo:t |:t
+#+title: Design Patterns (SystemVerilog)
+#+date: <2023-05-07 Sun>
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.0.60 (Org mode 9.7-pre)
+#+cite_export:
