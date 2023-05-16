@@ -25,7 +25,7 @@ Four essential elements of a pattern:
 - solution
 - consequences
 
-**  The Catalog of Design Patterns
+** The Catalog of Design Patterns
 *** Abstract Factory
 Provide an interface for creating families of related or dependent
 objects without specifying their concrete classes.
