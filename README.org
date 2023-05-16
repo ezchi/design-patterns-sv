@@ -243,6 +243,46 @@ reusable, and flexible. They can also help to improve the readability
 and maintainability of code.
 
 
+* Structural Pattern
+A structural design pattern is a design pattern that eases the design
+by identifying a simple way to realize relationships among entities.
+
+Structural patterns focus on how classes and objects can be composed,
+to form larger structures. Structural design patterns simplifies the
+structure by identifying the relationships. These patterns focus on,
+how the classes inherit from each other and how they are composed from
+other classes.
+
+Structural design patterns are a powerful tool that can help you to
+design more flexible and efficient software. By using structural
+patterns, you can avoid code duplication, improve readability and
+maintainability, and make your code more reusable.
+
+Here are some of the most common structural design patterns:
+** Adapter pattern
+Converts the interface of one class into an interface that another
+class expects.
+
+** Bridge pattern
+Decouples an abstraction from its implementation so that the two can
+vary independently.
+
+** Composite pattern
+A tree structure of objects where every object has the same interface.
+
+** Decorator pattern
+Adds additional functionality to an object at runtime without
+subclassing.
+
+** Facade pattern
+A single class that represents an entire subsystem.
+
+** Flyweight pattern
+A fine-grained instance used for efficient sharing.
+
+** Proxy pattern
+An object representing another object.
+
 * References
 ** Design Patterns - Elements of Reusable Object-Oriented Software
 https://www.oreilly.com/library/view/design-patterns-elements/0201633612/
