@@ -25,7 +25,7 @@ Four essential elements of a pattern:
 - solution
 - consequences
 
-**  The Catalog of Design Patterns
+** The Catalog of Design Patterns
 *** Abstract Factory
 Provide an interface for creating families of related or dependent
 objects without specifying their concrete classes.
@@ -194,6 +194,53 @@ classes of the elements on which it operates.
 |            | Visitor                 | operations that can be applied to object(s) without changing their class(es)               |
 |------------+-------------------------+--------------------------------------------------------------------------------------------|
 
+
+
+* Creational Pattern
+In software engineering, creational design patterns are design
+patterns that deal with object creation mechanisms, trying to create
+objects in a manner suitable to the situation. The basic form of
+object creation could result in design problems or in added complexity
+to the design. Creational design patterns solve this problem by
+somehow controlling this object creation.
+
+There are many different creational design patterns, each with its own
+specific purpose. Some of the most common creational design patterns
+include:
+
+** Factory Method
+The factory method pattern defines an interface for creating objects,
+but lets sub-classes decide which class to instantiate. This pattern is
+often used when there are many different types of objects that can be
+created, and the client code doesn't need to know which type of object
+to create.
+
+** Abstract Factory
+The abstract factory pattern is similar to the factory method pattern,
+but it allows for the creation of families of related objects. This
+pattern is often used when there are many different types of objects
+that are related to each other, such as different types of animals or
+different types of vehicles.
+
+** Builder
+The builder pattern is used to construct complex objects step by step.
+This pattern is often used when the object to be constructed is large
+or complex, and the client code doesn't need to know the details of
+how the object is constructed.
+
+** Singleton
+The singleton pattern ensures that a class has only one instance. This
+pattern is often used when there is a global object that needs to be
+accessed from multiple places in the code.
+
+** Prototype
+The prototype pattern creates a new object by copying an existing
+object. This pattern is often used when the object to be created is
+large or complex, and it would be expensive to create it from scratch.
+
+Creational design patterns can be used to make code more modular,
+reusable, and flexible. They can also help to improve the readability
+and maintainability of code.
 
 
 * References
